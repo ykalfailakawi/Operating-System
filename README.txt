@@ -1,5 +1,4 @@
 # README - EECE 4811 HW0
-#Yousef  Alfailakawi
 ## Files
 producer_consumer.go -> Producer-Consumer using IPC (pipes)
 stack.go -> Stack implementation using array
